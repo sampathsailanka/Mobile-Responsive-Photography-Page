@@ -52,7 +52,7 @@ main {
 }
 
 #landing-image {
-    background: url(/photography.jpg);
+    background: url(../photography.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
